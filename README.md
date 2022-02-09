@@ -1,5 +1,6 @@
 # IHM-1
 ejercicio-1
+
 //-------------------------------------------------PARTE 1-------------------------------------------------//
 Tras someter la web con dirección: https://www.w3schools.com/, podemos ver estos errores y warnings:
 
