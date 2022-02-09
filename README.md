@@ -93,4 +93,5 @@ WARNINGS=63
 1073								-ms-user-select is a vendor extension
 
 //-------------------------------------------------PARTE 2-------------------------------------------------//
-
+Aquí podemos ver una parte de los errores que aparecen al estar el archivo proyecto figma incompleto
+![captura de errores_p2](https://user-images.githubusercontent.com/98815751/153188404-a5d82c97-cf34-4c68-82a3-f68749e7c87d.png)
